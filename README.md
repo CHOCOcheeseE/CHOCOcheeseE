@@ -1,9 +1,9 @@
-## About Me  
+## 🔍 **About Me**  
 
-🚀 **Exploring Various Fields**  
+🌎 **Navigating the Tech Universe**
 Embracing the limitless world of technology, I constantly explore new fields and challenges to expand my knowledge and skills.
 
-📚 **Educational Background:**  
+🏫 **Education & Growth**  
 Currently pursuing a degree in Informatics Engineering at Nusa Putra University, Sukabumi, where I am developing a strong foundation in software development, data processing, and emerging technologies.  
 
 🧠 **Constantly Evolving**  
@@ -46,5 +46,6 @@ I'm always open to discussing new ideas, collaborating on projects, or just conn
 
 ---
 
-### 🔗 Connect with Me:  
+### 🌐 Let's Connect:
+[![HyLink](https://img.shields.io/badge/HYLINK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://heylink.me/CHOCOpie/)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CHOCOcheeseE)  
