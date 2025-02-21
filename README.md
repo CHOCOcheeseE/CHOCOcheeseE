@@ -4,7 +4,7 @@
 Embracing the limitless world of technology, I constantly explore new fields and challenges to expand my knowledge and skills.
 
 🏫 **Education & Growth**   
-Currently pursuing a degree in Informatics Engineering at Nusa Putra University, Sukabumi, where I am developing a strong foundation in software development, data processing, and emerging technologies.  
+Currently pursuing a degree in **Informatics Engineering** at **Nusa Putra University, Sukabumi**, where I am developing a strong foundation in software development, data processing, and emerging technologies.  
 
 🧠 **Constantly Evolving**   
 Learning never stops! I actively explore new technologies, enhance my problem-solving skills, and strive for continuous self-improvement in the tech industry.  
@@ -17,7 +17,6 @@ I'm always open to discussing new ideas, collaborating on projects, or just conn
 # 🛠 Teach Arsenal:  
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
