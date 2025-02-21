@@ -1,12 +1,12 @@
-## 🔍 About Me
+# 🔍 About Me
 
 🌎 **Navigating the Tech Universe**   
 Embracing the limitless world of technology, I constantly explore new fields and challenges to expand my knowledge and skills.
 
-🏫 **Education & Growth**  
+🏫 **Education & Growth**   
 Currently pursuing a degree in Informatics Engineering at Nusa Putra University, Sukabumi, where I am developing a strong foundation in software development, data processing, and emerging technologies.  
 
-🧠 **Constantly Evolving**  
+🧠 **Constantly Evolving**   
 Learning never stops! I actively explore new technologies, enhance my problem-solving skills, and strive for continuous self-improvement in the tech industry.  
 
 💬 **Reach Out to Me**   
@@ -14,7 +14,7 @@ I'm always open to discussing new ideas, collaborating on projects, or just conn
 
 ---
 
-## 🛠 Teach Arsenal:  
+# 🛠 Teach Arsenal:  
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -32,7 +32,7 @@ I'm always open to discussing new ideas, collaborating on projects, or just conn
 
 ---
 
-## 📊 GitHub Stats:  
+# 📊 GitHub Stats:  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHOCOcheeseE&show_icons=true&theme=tokyonight)  
 
@@ -46,6 +46,6 @@ I'm always open to discussing new ideas, collaborating on projects, or just conn
 
 ---
 
-### 🌐 Let's Connect:
+## 🌐 Let's Connect:
 [![HyLink](https://img.shields.io/badge/HYLINK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://heylink.me/CHOCOpie/)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CHOCOcheeseE)  
