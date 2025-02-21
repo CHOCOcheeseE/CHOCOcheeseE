@@ -1,4 +1,4 @@
-## 🔍 **About Me**  
+## 🔍 About Me
 
 🌎 **Navigating the Tech Universe**   
 Embracing the limitless world of technology, I constantly explore new fields and challenges to expand my knowledge and skills.
