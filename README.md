@@ -9,7 +9,7 @@ Currently pursuing a degree in Informatics Engineering at Nusa Putra University,
 🧠 **Constantly Evolving**  
 Learning never stops! I actively explore new technologies, enhance my problem-solving skills, and strive for continuous self-improvement in the tech industry.  
 
-💬 **Reach Out to Me** 
+💬 **Reach Out to Me**   
 I'm always open to discussing new ideas, collaborating on projects, or just connecting with fellow tech enthusiasts. Feel free to explore my repositories and reach out!  
 
 ---
