@@ -40,7 +40,7 @@ I'm always open to discussing new ideas, collaborating on projects, or just conn
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CHOCOcheeseE&theme=onedark)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CHCOCOcheeseE&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CHOCOcheeseE&theme=dracula)
 
 
 
